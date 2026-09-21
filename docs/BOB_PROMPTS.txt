@@ -1,0 +1,46 @@
+EcoSort AI — IBM Bob Prompts
+
+PROMPT 1 — Project Review
+
+We are building a student sustainability project called EcoSort AI.
+
+Project:
+EcoSort AI: An Agentic AI Assistant for Intelligent Waste Segregation and Responsible Disposal
+
+Primary SDG:
+SDG 12 – Responsible Consumption and Production
+
+The application uses Python, Streamlit, LangGraph, IBM watsonx.ai, IBM Granite, retrieval-augmented guidance, and optional image analysis.
+
+Review the current folder structure and explain what is missing or inconsistent. Do not rewrite the whole project. Keep the review focused on practical development issues. Do not request or expose API keys or other secrets.
+
+
+PROMPT 2 — Code Review
+
+Review the current EcoSort AI code for:
+
+1. State handling
+2. IBM watsonx calls
+3. RAG retrieval
+4. Streamlit behavior
+5. Error handling
+6. Secret exposure
+7. Responsible handling of uncertain classifications
+8. Readability and maintainability
+
+List confirmed issues first. Do not make changes yet.
+
+
+PROMPT 3 — Controlled Fixes
+
+Fix only the confirmed issues from the previous review. Keep the existing architecture and file names unless a change is necessary. Do not expose or hard-code secrets. After the changes, explain which files were modified and why.
+
+
+PROMPT 4 — RAG Review
+
+Review the retrieval logic in rag.py and the waste_guidance.json data. Check whether the retrieval flow is consistent with the intended categories. Suggest improvements that can be made without adding an unnecessary vector database.
+
+
+PROMPT 5 — Demo Review
+
+Review the Streamlit interface for a live project demonstration. Make the information hierarchy clear: item, category, recommendation, caution, local-rule note, and retrieved guidance. Keep the interface simple and practical.

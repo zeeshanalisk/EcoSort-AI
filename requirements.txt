@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-core
+ibm-watsonx-ai
+python-dotenv
+scikit-learn
+pillow
+pydantic

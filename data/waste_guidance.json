@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Organic / Food Waste",
+    "keywords": "food fruit vegetable kitchen organic leftovers peels",
+    "preparation": "Keep food and other compostable organic material separate from dry recyclable materials.",
+    "route": "Use the organic or composting collection route available in the user's locality, where provided.",
+    "caution": "Do not assume that every locality accepts every type of organic material in the same collection stream.",
+    "source": "General educational guidance based on waste-management principles"
+  },
+  {
+    "category": "Paper / Cardboard",
+    "keywords": "paper cardboard newspaper box carton notebook",
+    "preparation": "Keep paper and cardboard reasonably clean and dry. Remove obvious non-paper attachments where practical.",
+    "route": "Use the dry recyclable or paper collection stream where such collection exists.",
+    "caution": "Local recyclability rules can differ for contaminated or coated paper products.",
+    "source": "General educational guidance; verify local rules"
+  },
+  {
+    "category": "Plastic",
+    "keywords": "plastic bottle wrapper container packet bag packaging",
+    "preparation": "Keep plastic items separate from organic waste and, where appropriate, empty obvious contents before disposal.",
+    "route": "Use the recyclable-plastic or designated plastic-waste collection route available locally.",
+    "caution": "Not every plastic item is accepted by every recycling system.",
+    "source": "General educational guidance; verify local rules"
+  },
+  {
+    "category": "Glass",
+    "keywords": "glass bottle jar glass container",
+    "preparation": "Keep glass separate from loose organic waste and handle broken glass carefully.",
+    "route": "Use the local glass or recyclable collection channel where available.",
+    "caution": "Broken glass can cause injury. Handle it carefully.",
+    "source": "General educational guidance"
+  },
+  {
+    "category": "Metal",
+    "keywords": "metal can aluminium tin steel utensil",
+    "preparation": "Keep metal items separate and reasonably free from food residue where practical.",
+    "route": "Use the local recyclable-metal collection route where available.",
+    "caution": "Sharp metal objects can cause injury.",
+    "source": "General educational guidance"
+  },
+  {
+    "category": "E-Waste",
+    "keywords": "phone laptop charger keyboard mouse computer electronics circuit",
+    "preparation": "Keep electronic waste separate from ordinary household waste.",
+    "route": "Use an appropriate e-waste collection or recycling channel available in the locality.",
+    "caution": "Do not dismantle electronic equipment yourself just to dispose of it.",
+    "source": "General e-waste guidance; verify current local collection arrangements"
+  },
+  {
+    "category": "Batteries",
+    "keywords": "battery cell rechargeable lithium AA AAA power bank",
+    "preparation": "Keep used batteries separate from ordinary household waste.",
+    "route": "Use a suitable battery or e-waste collection channel available locally.",
+    "caution": "Do not puncture, burn, crush, or dismantle batteries.",
+    "source": "General safety guidance; verify local collection arrangements"
+  },
+  {
+    "category": "Sanitary / Hygiene Waste",
+    "keywords": "sanitary pad diaper tissue hygiene waste",
+    "preparation": "Follow the local designated handling method and keep sanitary waste appropriately wrapped or contained where required.",
+    "route": "Use the designated sanitary or domestic waste route provided by the local authority or collection service.",
+    "caution": "Do not place sanitary waste into a recycling stream.",
+    "source": "General educational guidance; verify local rules"
+  },
+  {
+    "category": "Hazardous / Chemical Waste",
+    "keywords": "paint pesticide chemical solvent cleaner oil chemical container",
+    "preparation": "Keep potentially hazardous chemical material separate from ordinary household waste.",
+    "route": "Follow the local hazardous-waste or authorized collection instructions.",
+    "caution": "Do not mix unknown chemicals or pour hazardous substances into drains.",
+    "source": "General safety guidance; verify local authority instructions"
+  },
+  {
+    "category": "Mixed / Unknown",
+    "keywords": "unknown mixed uncertain unidentified",
+    "preparation": "Do not guess when the material cannot be identified reliably.",
+    "route": "Ask for additional information or consult the appropriate local waste-management authority.",
+    "caution": "The system should not invent a disposal instruction when the item is uncertain.",
+    "source": "Responsible design rule"
+  }
+]
